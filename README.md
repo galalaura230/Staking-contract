@@ -7,6 +7,7 @@ Welcome to Newton Finance Token
   <img src="https://cdn.discordapp.com/attachments/842861267425427496/843760499707609128/1.jpg" height="300" />
 <div>
 <br />
+
 Do you have what it takes?
 Visit [Official site](https://www.newtonfinancetoken.com/) to find out.
 
